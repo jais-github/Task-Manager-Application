@@ -50,7 +50,7 @@ namespace TaskManager.Features.Users
 
             var newHash = BCrypt.Net.BCrypt.HashPassword(request.NewPassword);
             user.PasswordHash = BCrypt.Net.BCrypt.HashPassword(request.NewPassword);
-            //user.PasswordSalt = new byte[0]; // Optional: if using salt separately
+
 
             await _context.SaveChangesAsync();
             return true;

@@ -1,0 +1,853 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager.ui\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|solutionrelative:taskmanager.ui\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager.ui\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|solutionrelative:taskmanager.ui\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager.ui\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|solutionrelative:taskmanager.ui\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager.ui\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|solutionrelative:taskmanager.ui\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager.ui\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|solutionrelative:taskmanager.ui\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager.ui\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|solutionrelative:taskmanager.ui\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager.ui\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|solutionrelative:taskmanager.ui\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager.ui\\models\\taskresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|solutionrelative:taskmanager.ui\\models\\taskresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager.ui\\models\\taskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|solutionrelative:taskmanager.ui\\models\\taskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager.ui\\models\\tagresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|solutionrelative:taskmanager.ui\\models\\tagresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager.ui\\models\\tagrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|solutionrelative:taskmanager.ui\\models\\tagrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager.ui\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|solutionrelative:taskmanager.ui\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager.ui\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|solutionrelative:taskmanager.ui\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager.ui\\models\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|solutionrelative:taskmanager.ui\\models\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager.ui\\models\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|solutionrelative:taskmanager.ui\\models\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager.ui\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|solutionrelative:taskmanager.ui\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82AEC13D-D1B4-455E-B108-39ECC55E3CC7}|TaskManager.UI\\TaskManager.UI.csproj|solutionrelative:taskmanager.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\validators\\taskrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\validators\\taskrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\migrations\\20250405140523_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\migrations\\20250405140523_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\helpers\\ijwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\helpers\\ijwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\features\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\features\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\features\\users\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\features\\users\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\features\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\features\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\features\\users\\updateusernamerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\features\\users\\updateusernamerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\features\\users\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\features\\users\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\features\\tasks\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\features\\tasks\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\features\\tasks\\taskresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\features\\tasks\\taskresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\features\\tasks\\taskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\features\\tasks\\taskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\features\\tasks\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\features\\tasks\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\features\\tasks\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\features\\tasks\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\features\\tasks\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\features\\tasks\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\features\\tags\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\features\\tags\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\features\\tags\\tagrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\features\\tags\\tagrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\features\\tags\\tagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\features\\tags\\tagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\features\\tags\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\features\\tags\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\features\\tags\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\features\\tags\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\features\\tags\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\features\\tags\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\features\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\features\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\features\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\features\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\features\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\features\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\features\\auth\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\features\\auth\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\features\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\features\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\features\\auth\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\features\\auth\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\features\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\features\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|c:\\users\\ayush jaiswal\\source\\repos\\taskmanager\\taskmanager\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{237FDA41-DCF1-4819-B799-8B8113FF24A7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "TaskManager.UI\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Services\\TaskService.cs",
+              "RelativeToolTip": "TaskManager.UI\\Services\\TaskService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:48:28.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TagService.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Services\\TagService.cs",
+              "RelativeDocumentMoniker": "TaskManager.UI\\Services\\TagService.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Services\\TagService.cs",
+              "RelativeToolTip": "TaskManager.UI\\Services\\TagService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:48:26.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "TaskManager.UI\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Services\\AuthService.cs",
+              "RelativeToolTip": "TaskManager.UI\\Services\\AuthService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:48:23.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "TaskManager.UI\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Pages\\Weather.razor",
+              "RelativeToolTip": "TaskManager.UI\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T05:48:20.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "TaskManager.UI\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Pages\\Login.razor",
+              "RelativeToolTip": "TaskManager.UI\\Pages\\Login.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T05:48:19.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "TaskManager.UI\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Pages\\Home.razor",
+              "RelativeToolTip": "TaskManager.UI\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T05:48:18.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "TaskManager.UI\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Pages\\Counter.razor",
+              "RelativeToolTip": "TaskManager.UI\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T05:48:17.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Models\\TaskResponse.cs",
+              "RelativeDocumentMoniker": "TaskManager.UI\\Models\\TaskResponse.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Models\\TaskResponse.cs",
+              "RelativeToolTip": "TaskManager.UI\\Models\\TaskResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:48:14.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Models\\TaskRequest.cs",
+              "RelativeDocumentMoniker": "TaskManager.UI\\Models\\TaskRequest.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Models\\TaskRequest.cs",
+              "RelativeToolTip": "TaskManager.UI\\Models\\TaskRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:48:13.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TagResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Models\\TagResponse.cs",
+              "RelativeDocumentMoniker": "TaskManager.UI\\Models\\TagResponse.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Models\\TagResponse.cs",
+              "RelativeToolTip": "TaskManager.UI\\Models\\TagResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:48:12.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TagRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Models\\TagRequest.cs",
+              "RelativeDocumentMoniker": "TaskManager.UI\\Models\\TagRequest.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Models\\TagRequest.cs",
+              "RelativeToolTip": "TaskManager.UI\\Models\\TagRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:48:11.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "TaskManager.UI\\Models\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "TaskManager.UI\\Models\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:48:10.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "TaskManager.UI\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "TaskManager.UI\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:48:09.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Models\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "TaskManager.UI\\Models\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Models\\AuthResponse.cs",
+              "RelativeToolTip": "TaskManager.UI\\Models\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:48:08.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Models\\AuthRequest.cs",
+              "RelativeDocumentMoniker": "TaskManager.UI\\Models\\AuthRequest.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Models\\AuthRequest.cs",
+              "RelativeToolTip": "TaskManager.UI\\Models\\AuthRequest.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:48:05.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "TaskManager.UI\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "TaskManager.UI\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T05:48:01.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TaskManager.UI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager.UI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TaskManager.UI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T05:47:56.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TaskRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Validators\\TaskRequestValidator.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Validators\\TaskRequestValidator.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Validators\\TaskRequestValidator.cs",
+              "RelativeToolTip": "TaskManager\\Validators\\TaskRequestValidator.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:47:48.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "TaskManager\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:47:41.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250405140523_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Migrations\\20250405140523_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Migrations\\20250405140523_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Migrations\\20250405140523_InitialCreate.cs",
+              "RelativeToolTip": "TaskManager\\Migrations\\20250405140523_InitialCreate.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:47:33.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "TaskManager\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:47:29.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Helpers\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Helpers\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Helpers\\JwtHelper.cs",
+              "RelativeToolTip": "TaskManager\\Helpers\\JwtHelper.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:47:25.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IJwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Helpers\\IJwtHelper.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Helpers\\IJwtHelper.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Helpers\\IJwtHelper.cs",
+              "RelativeToolTip": "TaskManager\\Helpers\\IJwtHelper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:47:23.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Users\\UserService.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Features\\Users\\UserService.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Users\\UserService.cs",
+              "RelativeToolTip": "TaskManager\\Features\\Users\\UserService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:47:11.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Users\\UserController.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Features\\Users\\UserController.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Users\\UserController.cs",
+              "RelativeToolTip": "TaskManager\\Features\\Users\\UserController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:47:09.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Users\\User.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Features\\Users\\User.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Users\\User.cs",
+              "RelativeToolTip": "TaskManager\\Features\\Users\\User.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:47:07.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateUsernameRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Users\\UpdateUsernameRequest.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Features\\Users\\UpdateUsernameRequest.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Users\\UpdateUsernameRequest.cs",
+              "RelativeToolTip": "TaskManager\\Features\\Users\\UpdateUsernameRequest.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:47:04.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Users\\IUserService.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Features\\Users\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Users\\IUserService.cs",
+              "RelativeToolTip": "TaskManager\\Features\\Users\\IUserService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:47:02.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Tasks\\TaskService.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Features\\Tasks\\TaskService.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Tasks\\TaskService.cs",
+              "RelativeToolTip": "TaskManager\\Features\\Tasks\\TaskService.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAwIcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:46:41.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TaskResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Tasks\\TaskResponse.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Features\\Tasks\\TaskResponse.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Tasks\\TaskResponse.cs",
+              "RelativeToolTip": "TaskManager\\Features\\Tasks\\TaskResponse.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:46:38.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TaskRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Tasks\\TaskRequest.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Features\\Tasks\\TaskRequest.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Tasks\\TaskRequest.cs",
+              "RelativeToolTip": "TaskManager\\Features\\Tasks\\TaskRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:46:32.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Tasks\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Features\\Tasks\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Tasks\\TaskItem.cs",
+              "RelativeToolTip": "TaskManager\\Features\\Tasks\\TaskItem.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:46:24.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Tasks\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Features\\Tasks\\TaskController.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Tasks\\TaskController.cs",
+              "RelativeToolTip": "TaskManager\\Features\\Tasks\\TaskController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:46:20.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Tasks\\ITaskService.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Features\\Tasks\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Tasks\\ITaskService.cs",
+              "RelativeToolTip": "TaskManager\\Features\\Tasks\\ITaskService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:46:18.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TagService.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Tags\\TagService.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Features\\Tags\\TagService.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Tags\\TagService.cs",
+              "RelativeToolTip": "TaskManager\\Features\\Tags\\TagService.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:46:11.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TagRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Tags\\TagRequest.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Features\\Tags\\TagRequest.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Tags\\TagRequest.cs",
+              "RelativeToolTip": "TaskManager\\Features\\Tags\\TagRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:46:09.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TagDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Tags\\TagDto.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Features\\Tags\\TagDto.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Tags\\TagDto.cs",
+              "RelativeToolTip": "TaskManager\\Features\\Tags\\TagDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:46:08.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TagController.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Tags\\TagController.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Features\\Tags\\TagController.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Tags\\TagController.cs",
+              "RelativeToolTip": "TaskManager\\Features\\Tags\\TagController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:46:06.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Tags\\Tag.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Features\\Tags\\Tag.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Tags\\Tag.cs",
+              "RelativeToolTip": "TaskManager\\Features\\Tags\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:46:02.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ITagService.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Tags\\ITagService.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Features\\Tags\\ITagService.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Tags\\ITagService.cs",
+              "RelativeToolTip": "TaskManager\\Features\\Tags\\ITagService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:45:55.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Auth\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Features\\Auth\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Auth\\RegisterRequest.cs",
+              "RelativeToolTip": "TaskManager\\Features\\Auth\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:45:47.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Auth\\IAuthService.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Features\\Auth\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Auth\\IAuthService.cs",
+              "RelativeToolTip": "TaskManager\\Features\\Auth\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:45:46.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Auth\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Features\\Auth\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Auth\\LoginRequest.cs",
+              "RelativeToolTip": "TaskManager\\Features\\Auth\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:45:44.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ChangePasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Auth\\ChangePasswordRequest.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Features\\Auth\\ChangePasswordRequest.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Auth\\ChangePasswordRequest.cs",
+              "RelativeToolTip": "TaskManager\\Features\\Auth\\ChangePasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:45:38.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Features\\Auth\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Auth\\AuthService.cs",
+              "RelativeToolTip": "TaskManager\\Features\\Auth\\AuthService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:45:36.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Auth\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Features\\Auth\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Auth\\AuthResponse.cs",
+              "RelativeToolTip": "TaskManager\\Features\\Auth\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:45:33.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Auth\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Features\\Auth\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Features\\Auth\\AuthController.cs",
+              "RelativeToolTip": "TaskManager\\Features\\Auth\\AuthController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:45:30.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TaskManager\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:44:59.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TaskManager\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Ayush Jaiswal\\source\\repos\\TaskManager\\TaskManager\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TaskManager\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T05:44:21.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
