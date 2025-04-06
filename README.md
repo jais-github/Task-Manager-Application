@@ -100,3 +100,14 @@ GET     /api/jobs/{jobId}/logs	    Get logs related to a job
 POST    /api/jobs	                  Add/update job data
 POST    /api/customeranalytics	    Bulk insert analytics records
 
+
+Challenges Faced & How They Were Addressed
+1) Challenge: Initial issues with the frontend (Blazor WebAssembly) failing to call backend APIs due to SSL and CORS errors.
+Solution: Fixed incorrect API URLs, configured correct HTTPS endpoints, and resolved ERR_CONNECTION_REFUSED and ERR_SSL_PROTOCOL_ERROR by ensuring both frontend and backend projects were running correctly with consistent ports.
+
+2) Challenge: Faced a TimeoutException when launching the WebAssembly debug proxy due to insufficient timeout (default 10s).
+Solution: Resolved temporarily by disabling WebAssembly debugging. Plan to increase timeout via custom middleware or settings if needed during development.
+
+3) Challenge: Encountered System.Net.Http.HttpRequestException: TypeError: Failed to fetch in Blazor on failed login attempts.
+Solution: Implemented proper error handling on the client side and verified backend service availability to ensure robust and user-friendly error messages.
+
